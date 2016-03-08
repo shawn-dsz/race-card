@@ -1,0 +1,137 @@
+{
+  "Races": [
+    {
+      "Race": {
+        "AcceptencesClose": [
+          "2015-06-02T09:00:00"
+        ],
+        "AcceptencesCloseUTC": [
+          "2015-06-01T23:00:00Z"
+        ],
+        "ApprenticesCanClaim": true,
+        "BonusSchemes": null,
+        "ClassRestriction": "Maiden",
+        "FieldLimit": 12,
+        "LateNominationsClose": "2015-06-01T15:00:00",
+        "LateNominationsCloseUTC": "2015-06-01T05:00:00Z",
+        "MeetingTabExotics": [],
+        "MeetStewardsReport": "",
+        "NominationsClose": "2015-06-01T12:00:00",
+        "NominationsCloseUTC": "2015-06-01T02:00:00Z",
+        "NumberOfRacesInMeeting": 8,
+        "PhotoFinish": "http://s3-ap-southeast-2.amazonaws.com/racevic.static/2015-06-04/racingcom-park-synthetic/photofinishes/race-1.jpg",
+        "PreviousRail": null,
+        "PrevRail": null,
+        "PrizeMoney": 17500,
+        "PrizeMoneyDetails": [
+          10500,
+          2975,
+          1400,
+          700,
+          350,
+          315,
+          315,
+          315,
+          315,
+          315
+        ],
+        "RaceOverview": null,
+        "RaceStewardsReport": "",
+        "RaceTabData": null,
+        "RaceTippers": null,
+        "Rail": "True Entire Circuit",
+        "Record": null,
+        "RecordHorse": null,
+        "RecordRace": null,
+        "RecordRaceDate": null,
+        "Restrictions": "Three-Years-Old and Upwards, No sex restriction",
+        "RidersClose": "2015-06-02T12:00:00",
+        "RidersCloseUTC": "2015-06-02T02:00:00Z",
+        "SectionalTimes": "",
+        "VideoId": 4274428536001,
+        "Weather": "Fine",
+        "WeatherSource": 2,
+        "WeatherTemp": 17,
+        "WeightsPublished": "2015-06-01T00:00:00",
+        "WeightsPublishedUTC": "2015-05-31T14:00:00Z",
+        "Penetrometer": null,
+        "Group": 0,
+        "GroupDesc": "",
+        "isCancelled": false,
+        "isNominated": true,
+        "MeetCode": 859798,
+        "NameForm": "MDN-SW",
+        "Results": null,
+        "ShortTrack": "Racing.com Park Synthetic",
+        "Status": "Results",
+        "StatusSource": 6,
+        "Time": "2015-06-04T12:15:00",
+        "TimeDisplay": "12:15pm",
+        "TimeUTC": "2015-06-04T02:15:00",
+        "VenueAbbr": "PAKS",
+        "VenueName": "Racing.com Park Synthetic",
+        "MeetTypeCode": 0,
+        "Code": 5049396,
+        "Date": "2015-06-04T00:00:00",
+        "Distance": 1200,
+        "IsTrial": false,
+        "Name": "Hygain Maiden Plate",
+        "Number": 1,
+        "RaceType": "",
+        "RaceTypeSource": null,
+        "Url": {
+          "RaceNumber": 1,
+          "MeetUrlSegment": "2015-06-04/racingcom-park-synthetic",
+          "RacePrefix": "race"
+        },
+        "WeightCondition": "SW",
+        "WeightConditionDescription": "Set Weights",
+        "TrackCondition": "Synth",
+        "TrackConditionRating": "Synth",
+        "TrackConditionRatingSource": 3,
+        "TrackConditionSource": 6
+      },
+      "Results": [
+        {
+          "Horse": {
+            "Code": 947220,
+            "FullName": "Lucente",
+            "UrlSegment": "lucente"
+          },
+          "Margin": null,
+          "OddPlace": 3.1,
+          "OddWin": 14.1,
+          "Result": 1,
+          "TabNumber": 3,
+          "WinningTime": 7289
+        },
+        {
+          "Horse": {
+            "Code": 962660,
+            "FullName": "Surf Poet",
+            "UrlSegment": "surf-poet"
+          },
+          "Margin": 0.1,
+          "OddPlace": 1.3,
+          "OddWin": null,
+          "Result": 2,
+          "TabNumber": 10,
+          "WinningTime": 7289
+        },
+        {
+          "Horse": {
+            "Code": 973858,
+            "FullName": "Gamora",
+            "UrlSegment": "gamora"
+          },
+          "Margin": 1.4,
+          "OddPlace": 1.5,
+          "OddWin": null,
+          "Result": 3,
+          "TabNumber": 6,
+          "WinningTime": 7289
+        }
+      ]
+    }
+  ]
+}
