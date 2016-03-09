@@ -91,7 +91,8 @@ body {
   padding: 3px;
   border-radius: 3px;
   color: white;
-  font-size: 11px;
+  font-size: 10px;
+  margin-right: 5px;
 }
 
 .r-button-section-sub:nth-child(n+2) {
